@@ -1,0 +1,115 @@
+a:39:{s:4:"font";s:9:"quicksand";s:9:"s_title_1";s:41:"<b>TOGETHER WE <br>CAN REACH THE GOAL</b>";s:16:"s_button_label_1";s:5:"Hello";s:15:"s_button_link_1";s:63:"https://wordpress5.1.dev/wp-admin/admin.php?page=theme-settings";s:11:"s_content_1";s:40:"I'm here to work on your business goals!";s:14:"s_background_1";s:76:"http://wordpress5.1.dev/wp-content/uploads/2019/11/coach-hero-image-home.jpg";s:9:"s_title_2";s:22:"<b>SUCCESS</b> STORIES";s:16:"s_button_label_2";s:15:"PROJECT DETAILS";s:15:"s_button_link_2";s:0:"";s:11:"s_content_2";s:375:"Lorem ipsum siame conseur eusrw dpscing nimeas dsnsrus ullamcoe conseua<br>rephenr velitesse cillum fuginulla prature cupidas prodent suntincua officas deserunt animes laborum perscatie lupaem cusntium<br>lremque was uperiam eaque ipsuae inventore vitaesun asperntur seqnu ratione nesciun quasme consetur velitse eiusmos<br>magnam aliquam quaers voluptatem rephenr velitesse.";s:14:"s_background_2";s:67:"http://wordpress5.1.dev/wp-content/uploads/2019/11/IMG_2321-min.jpg";s:9:"s_title_3";s:22:"<b>MY WORK</b> PROCESS";s:16:"s_button_label_3";s:10:"LEARN MORE";s:15:"s_button_link_3";s:63:"https://wordpress5.1.dev/wp-admin/admin.php?page=theme-settings";s:11:"s_content_3";s:4299:"<div class="section-content">
+                        <p>Lorem ipsum siame conseur eusrw dpscing nimeas dsnsrus ullamcoe conseua</p>
+                        <p>rephenr velitesse cillum fuginulla prature cupidas prodent suntincua officas deserunt animes laborum perscatie lupaem</p>
+                        <p>cusntium lremque was uperiam eaque ipsuae inventore vitaesun asperntur seqnu ratione nesciun quasme consetur velitse</p>
+                        <p>eiusmos magnam aliquam quaers voluptatem rephenr velitesse.</p>                        </div>
+                    <div class="section-features">
+                        <div class="row">
+                            <!-- Feature Box -->
+                            <div class="col-md-6 feature-box text-right">
+
+                                <div class="feature-image">
+                                    <img src="https://wpaddon-static.cdn-one.com/themes/coach/preview/wp-content/uploads/sites/17/2017/05/coach-icon-thorough-planning.png">
+                                </div>
+
+                                <div class="feature-text">
+                                    <h4 class="cursive-font feature-heading">Thorough Planning</h4>
+                                    <p>Lorem ipsum conscetur adipscing eiusmod<br>
+                                        tempus incididunt labore neque fusce en<br>
+                                        aliquer veniam nostrud ullamco laboris.</p>
+                                </div>
+
+                            </div>
+                            <!-- Feature Box -->
+                            <div class="col-md-6 feature-box text-left">
+
+                                <div class="feature-image">
+                                    <img src="https://wpaddon-static.cdn-one.com/themes/coach/preview/wp-content/uploads/sites/17/2017/05/coach-icon-analysis-and-design.png">
+                                </div>
+
+                                <div class="feature-text">
+                                    <h4 class="cursive-font feature-heading">Analysis & Design</h4>
+                                    <p>Lorem ipsum conscetur adipscing eiusmod<br>
+                                        tempus incididunt labore neque fusce en<br>
+                                        aliquer veniam nostrud ullamco laboris.</p>
+                                </div>
+
+                            </div>
+                            <!-- Feature Box -->
+                            <div class="col-md-6 feature-box text-right">
+
+                                <div class="feature-image">
+                                    <img src="https://wpaddon-static.cdn-one.com/themes/coach/preview/wp-content/uploads/sites/17/2017/05/coach-icon-solution-testing.png">
+                                </div>
+
+                                <div class="feature-text">
+                                    <h4 class="cursive-font feature-heading">Solution Testing</h4>
+                                    <p>Lorem ipsum conscetur adipscing eiusmod<br>
+                                        tempus incididunt labore neque fusce en<br>
+                                        aliquer veniam nostrud ullamco laboris.</p>
+                                </div>
+
+                            </div>
+                            <!-- Feature Box -->
+                            <div class="col-md-6 feature-box text-left">
+
+                                <div class="feature-image">
+                                    <img src="https://wpaddon-static.cdn-one.com/themes/coach/preview/wp-content/uploads/sites/17/2017/05/coach-icon-detailed-reporting.png">
+                                </div>
+
+                                <div class="feature-text">
+                                    <h4 class="cursive-font feature-heading">Detailed Reporting</h4>
+                                    <p>Lorem ipsum conscetur adipscing eiusmod<br>
+                                        tempus incididunt labore neque fusce en<br>
+                                        aliquer veniam nostrud ullamco laboris.</p>
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>";s:14:"s_background_3";s:81:"http://wordpress5.1.dev/wp-content/uploads/2019/11/coach-my-work-process-home.jpg";s:9:"s_title_4";s:26:"<b>HOW CAN</b> I HELP YOU?";s:16:"s_button_label_4";s:10:"GET ADVICE";s:15:"s_button_link_4";s:63:"https://wordpress5.1.dev/wp-admin/admin.php?page=theme-settings";s:11:"s_content_4";s:1007:"<p>Lorem ipsumf sitame conpseur eumsrw dpscing incdun laboris conseu wursne enimeas qntrus ercation ullamc laboris<br>acustim the laudntium officas voluptem acusntium inventore.</p><br>
+                        <p>Conseu wussern nullam rephenr velitese paritur cupidas proiden inculpa officas dserunw mollitre consectetuer condimentum<br> laudntium officas voluptem acusntium inventore the veritas uperiam eaquer ipsuaes inventore veritas quase architec pellentesque <br>explicabo nenmr ipsame volupatem voluptas seqnus ratione nesciun cillum nulla pariatur ecepltur cudpeas proident pellentesque the<br> curabitur nec eget massa dignissim, nec maecenas. Imperdiet enim erat in. Odio proin diam mauris ut, ac duis diam proin ridiculus <br>duis sodales ultricies urna quis enim feugiat officas voluptem acusntium inventore veritas lremue.</p>
+<style>
+            #app_section{background-color:#d9d3c7;background-repeat:no-repeat;background-position:-348px 0px;background-size:auto 100%;}
+        </style>";s:14:"s_background_4";s:78:"http://wordpress5.1.dev/wp-content/uploads/2019/11/coach-arrow-graphs-home.png";s:9:"s_title_5";s:23:"<b>WHAT</b> CLIENTS SAY";s:16:"s_button_label_5";s:0:"";s:15:"s_button_link_5";s:0:"";s:11:"s_content_5";s:427:"<div class="testimonial">
+                                <blockquote>Lorem ipsum siame conseur dpscing nimeas dsnsrus ullamcoe conseua rephenr velitesse cillum in fuginulla prature cupidas prodent suntincua officas deserunt animes perscatie lremque laudntium was uperiam ipsuae inventore veritas.</blockquote>
+                                <cite class="cursive-font">Nelia Nelson</cite>
+                            </div>";s:14:"s_background_5";s:82:"http://wordpress5.1.dev/wp-content/uploads/2019/11/coach-what-clients-say-home.jpg";s:9:"s_title_6";s:28:"<b>GROW UP</b> YOUR BUSINESS";s:16:"s_button_label_6";s:0:"";s:15:"s_button_link_6";s:0:"";s:11:"s_content_6";s:307:"<p>Lorem ipsum dolor sit amet donec eget et sunt consectetuer maecenas ac conubia risus egestas aptent eget mauris sit <br>semper nibh vestibulum vel mattis feugiat aliquam dapibus dolor dolor justo mauris at fusce an accumsan erat elit odio quam <br>feugiat rutrum vestibulum vehicula mauris venenatis.</p>";s:14:"s_background_6";s:67:"http://wordpress5.1.dev/wp-content/uploads/2019/11/IMG_2321-min.jpg";s:16:"s_footer_title_1";s:47:"Lorem ipsum sitame an ullamcs uisaue velitesse.";s:10:"s_footer_1";s:180:"<p>Lorem ipsum dolor sit amet donec est eget sunt consectetuer maecenas am mauris sit semper nibh vestibulum vel mattis feugiat aliquam dapibus dolor morbi purus aliquam eaque.</p>";s:16:"s_footer_title_2";s:11:"Latest News";s:10:"s_footer_2";s:743:"<ul>
+                            <li>
+                                <a href="2017/05/22/lorem-ipsum-dolor-sit-amet-donec-eget-et-sunt-consectetuer-maecenas-5/index.html">Lorem ipsum dolor sit amet donec eget et sunt consectetuer maecenas.</a>
+                                <span class="post-date">May 22, 2017</span>
+                            </li>
+                            <li>
+                                <a href="2017/05/22/lorem-ipsum-dolor-sit-amet-donec-eget-et-sunt-consectetuer-maecenas-6/index.html">Lorem ipsum dolor sit amet donec eget et sunt consectetuer maecenas.</a>
+                                <span class="post-date">May 22, 2017</span>
+                            </li>
+                        </ul>";s:16:"s_footer_title_3";s:12:"Get in Touch";s:10:"s_footer_3";s:6595:"<p>8901 Marmora Road, Glasgow,<br>
+                            Glasgow 89GR<br>
+                            Email: mail@demolink.org<br>
+                            Phone 1: (800) 0123 - 456 - 7890</p>
+
+                        <div class="social-icons">
+                            <ul>
+
+
+                                <li class="pinterest">
+                                    <a href="#" target="_blank"><svg enable-background="new 0 0 512 512" height="512px" id="Layer_1" version="1.1" viewBox="0 0 512 512" width="512px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="pinterest"><path d="M254.5,16.5c-131.996,0-239,107.004-239,239s107.004,239,239,239s239-107.004,239-239   S386.496,16.5,254.5,16.5z M412.892,413.892C370.584,456.2,314.333,479.5,254.5,479.5c-59.833,0-116.084-23.3-158.392-65.608   C53.8,371.584,30.5,315.333,30.5,255.5c0-59.833,23.3-116.084,65.608-158.392C138.416,54.8,194.667,31.5,254.5,31.5   c59.833,0,116.084,23.3,158.392,65.608C455.2,139.416,478.5,195.667,478.5,255.5C478.5,315.333,455.2,371.584,412.892,413.892z" fill="#BC001C"></path><path d="M260.292,145.567c-67.37,0-101.343,48.299-101.343,88.584c0,24.387,9.233,46.082,29.034,54.16   c3.248,1.339,6.159,0.05,7.101-3.546c0.655-2.479,2.207-8.757,2.896-11.38c0.947-3.555,0.58-4.795-2.043-7.904   c-5.708-6.729-9.362-15.447-9.362-27.804c0-35.832,26.812-67.911,69.815-67.911c38.079,0,59,23.267,59,54.334   c0,40.89-18.095,75.399-44.952,75.399c-14.837,0-25.935-12.263-22.384-27.313c4.26-17.966,12.516-37.345,12.516-50.322   c0-11.604-6.233-21.283-19.121-21.283c-15.164,0-27.348,15.69-27.348,36.7c0,13.384,4.522,22.439,4.522,22.439   s-15.516,65.754-18.239,77.268c-5.415,22.935-0.813,51.041-0.421,53.878c0.228,1.686,2.39,2.093,3.372,0.823   c1.393-1.83,19.463-24.125,25.597-46.41c1.741-6.303,9.972-38.971,9.972-38.971c4.929,9.402,19.329,17.663,34.642,17.663   c45.576,0,76.505-41.55,76.505-97.168C350.056,184.737,314.432,145.567,260.292,145.567z" fill="#BC001C"></path></g></svg></a>
+                                </li>
+
+
+                                <li class="twitter">
+                                    <a href="#" target="_blank"><svg enable-background="new 0 0 512 512" height="512px" id="Layer_1" version="1.1" viewBox="0 0 512 512" width="512px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="twitter"><path d="M415,177.721c-10.697,4.755-22.209,7.962-34.288,9.397c12.333-7.383,21.79-19.079,26.25-33.03   c-11.536,6.845-24.306,11.814-37.909,14.495c-10.886-11.6-26.403-18.854-43.573-18.854c-32.964,0-59.693,26.727-59.693,59.699   c0,4.672,0.526,9.226,1.548,13.603c-49.616-2.493-93.609-26.255-123.053-62.374c-5.139,8.812-8.081,19.066-8.081,30.017   c0,20.709,10.538,38.984,26.556,49.687c-9.781-0.313-18.99-3-27.041-7.472c-0.006,0.248-0.006,0.502-0.006,0.755   c0,28.919,20.579,53.041,47.891,58.535c-5.009,1.359-10.283,2.092-15.729,2.092c-3.851,0-7.591-0.373-11.235-1.075   c7.602,23.715,29.646,40.981,55.765,41.458c-20.431,16.013-46.166,25.559-74.14,25.559c-4.814,0-9.569-0.284-14.241-0.839   c26.426,16.946,57.802,26.822,91.512,26.822c109.811,0,169.852-90.963,169.852-169.852c0-2.588-0.053-5.168-0.165-7.731   C396.879,200.213,407.002,189.694,415,177.721z" fill="#469AE9"></path><path d="M254.5,16.5c-131.996,0-239,107.004-239,239s107.004,239,239,239s239-107.004,239-239   S386.496,16.5,254.5,16.5z M412.892,413.892C370.584,456.2,314.333,479.5,254.5,479.5c-59.833,0-116.084-23.3-158.392-65.608   C53.8,371.584,30.5,315.333,30.5,255.5c0-59.833,23.3-116.084,65.608-158.392C138.416,54.8,194.667,31.5,254.5,31.5   c59.833,0,116.084,23.3,158.392,65.608C455.2,139.416,478.5,195.667,478.5,255.5C478.5,315.333,455.2,371.584,412.892,413.892z" fill="#469AE9"></path></g></svg></a>
+                                </li>
+
+
+                                <li class="facebook">
+                                    <a href="#" target="_blank"><svg enable-background="new 0 0 512 512" height="512px" id="Layer_1" version="1.1" viewBox="0 0 512 512" width="512px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="facebook"><path d="M278.5,219.5v-26.998c0-12.187,2.946-18.002,21.864-18.002H323.5v-45h-39.007   c-48.535,0-63.993,21.553-63.993,59.744V219.5h-33v46h33v136h58v-136h40.216l5.385-46H278.5z" fill="#344C8A"></path><path d="M254.5,16.5c-131.996,0-239,107.004-239,239s107.004,239,239,239s239-107.004,239-239   S386.496,16.5,254.5,16.5z M412.892,413.892C370.584,456.2,314.333,479.5,254.5,479.5c-59.833,0-116.084-23.3-158.392-65.608   C53.8,371.584,30.5,315.333,30.5,255.5c0-59.833,23.3-116.084,65.608-158.392C138.416,54.8,194.667,31.5,254.5,31.5   c59.833,0,116.084,23.3,158.392,65.608C455.2,139.416,478.5,195.667,478.5,255.5C478.5,315.333,455.2,371.584,412.892,413.892z" fill="#344C8A"></path></g></svg></a>
+                                </li>
+
+
+                                <li class="linkedin">
+                                    <a href="#" target="_blank"><svg enable-background="new 0 0 512 512" height="512px" id="Layer_1" version="1.1" viewBox="0 0 512 512" width="512px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="linkedin"><path d="M374.5,369.5v-88.875c0-45.875-24.888-67.158-57.17-67.158c-26.022,0-37.83,14.666-44.83,24.859V217.5h-49   v152h49v-86.64c0-4.471,0.608-8.853,1.95-12.072c3.577-8.943,12.066-18.153,25.659-18.153c17.795,0,25.391,13.682,25.391,33.713   V369.5H374.5z" fill="#1583BB"></path><path d="M171.684,141.034c-16.097,0-26.559,11.299-26.559,26.233c0,14.666,10.194,26.233,25.933,26.233h0.357   c16.365,0,26.559-11.567,26.559-26.233C197.617,152.244,187.781,141.034,171.684,141.034z" fill="#1583BB"></path><rect fill="#1583BB" height="152" width="49" x="145.5" y="217.5"></rect><path d="M254.5,16.5c-131.996,0-239,107.004-239,239s107.004,239,239,239s239-107.004,239-239   S386.496,16.5,254.5,16.5z M412.892,413.892C370.584,456.2,314.333,479.5,254.5,479.5c-59.833,0-116.084-23.3-158.392-65.608   C53.8,371.584,30.5,315.333,30.5,255.5c0-59.833,23.3-116.084,65.608-158.392C138.416,54.8,194.667,31.5,254.5,31.5   c59.833,0,116.084,23.3,158.392,65.608C455.2,139.416,478.5,195.667,478.5,255.5C478.5,315.333,455.2,371.584,412.892,413.892z" fill="#1583BB"></path></g></svg></a>
+                                </li>
+                            </ul>
+                        </div>
+<style>#one_footer_address-2 .social-icons ul li a svg *{fill:#ffffff;}.sidebar #one_footer_address-2 .social-icons ul li a svg *{fill:#000000;}</style>";s:16:"s_footer_title_4";s:0:"";s:10:"s_footer_4";s:42:"<p>Copyright © All Rights Reserved.  </p>";}
