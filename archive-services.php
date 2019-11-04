@@ -79,7 +79,7 @@ get_header(); ?>
                             <a href="<?php echo get_the_permalink(); ?>" class="button border">Read More</a>
                         </div>
                         <div class="col-md-6 col-sm-6 cpt-button">
-                            <a href="../contact/index.html" class="button border">REQUEST A CONSULTATION</a>
+                            <a href="/contact/" class="button border">REQUEST A CONSULTATION</a>
                         </div>
                     </div>
 

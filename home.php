@@ -92,7 +92,8 @@ $bannerButtonLabel6 = one_get_theme_option('s_button_label_6');
                                 <div class="col-md-4 cpt-col">
                                     <div class="cta-block">
                                         <div class="cta-banner">
-                                            <img width="370" height="250" src="<?php echo  get_the_post_thumbnail_url(); ?>" class="attachment-lesson_thumb size-lesson_thumb wp-post-image" alt="" img-data="http://localhost/themes/coach/wp-content/uploads/sites/17/2017/05/coach-personal-mentorship-home-370x250.jpg 370w, http://localhost/themes/coach/wp-content/uploads/sites/17/2017/05/coach-personal-mentorship-home-500x338.jpg 500w, http://localhost/themes/coach/wp-content/uploads/sites/17/2017/05/coach-personal-mentorship-home.jpg 740w" sizes="(max-width: 370px) 100vw, 370px">                                                        </div>
+                                            <img width="370" height="250" src="<?php echo  get_the_post_thumbnail_url(); ?>" class="attachment-lesson_thumb size-lesson_thumb wp-post-image" alt="" >                                                        
+                                        </div>
                                         <div class="cta-content">
                                             <h3 class="cursive-font"><?php the_title(); ?></h3>
                                             <p><?php the_content(); ?></p>
