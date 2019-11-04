@@ -31,8 +31,9 @@
                         <button class="menu-toggle mobile-only" aria-controls="sticky_menu" aria-expanded="false">Menu</button>
                         <div class="site-logo">
                             <h1 class="site-title">
-                                <a href="index.html" rel="home">
-                                    COACH                                    </a>
+                                <a href="<?php echo site_url(); ?>" rel="home">
+                                    <?php echo get_bloginfo('name'); ?>  
+                                </a>
                             </h1>
                         </div>
                         <!-- END logo container -->
