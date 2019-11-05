@@ -69,8 +69,6 @@ if ( ! class_exists( 'ONE_Theme_Options' ) ) {
         /**
          * Register a setting and its sanitization callback.
          *
-         * We are only registering 1 setting so we can store all options in a single option as
-         * an array. You could, however, register a new setting for each option
          *
          * @since 1.0.0
          */
@@ -88,24 +86,15 @@ if ( ! class_exists( 'ONE_Theme_Options' ) ) {
             // If we have options lets sanitize them
             if ( $options ) {
 
-                // Checkbox
-                if ( ! empty( $options['checkbox_example'] ) ) {
-                    $options['checkbox_example'] = 'on';
-                } else {
-                    unset( $options['checkbox_example'] ); // Remove from options if not checked
+                foreach ($options as $key => $option){
+
+                    if ( ! empty( $options[$key] ) ) {
+                        $options[$key] = sanitize_text_field( $options[$key] );
+                    } else {
+                        unset( $options[$key] ); // Remove from options if empty
+                    }
                 }
 
-                // Input
-                if ( ! empty( $options['input_example'] ) ) {
-                    $options['input_example'] = sanitize_text_field( $options['input_example'] );
-                } else {
-                    unset( $options['input_example'] ); // Remove from options if empty
-                }
-
-                // Select
-                if ( ! empty( $options['select_example'] ) ) {
-                    $options['select_example'] = sanitize_text_field( $options['select_example'] );
-                }
 
             }
 
