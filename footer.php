@@ -12,15 +12,15 @@
 
 <?php
 
-$footerTitle1 = one_get_theme_option('s_footer_title_1');
-$footerTitle2 = one_get_theme_option('s_footer_title_2');
-$footerTitle3 = one_get_theme_option('s_footer_title_3');
-$footerTitle4 = one_get_theme_option('s_footer_title_4');
+$footerTitle1 = one_get_theme_option('s_footer_title_1') ? one_get_theme_option('s_footer_title_1') : "No Title";
+$footerTitle2 = one_get_theme_option('s_footer_title_2') ? one_get_theme_option('s_footer_title_2') : "No Title";
+$footerTitle3 = one_get_theme_option('s_footer_title_3') ? one_get_theme_option('s_footer_title_3') : "No Title";
+$footerTitle4 = one_get_theme_option('s_footer_title_4') ? one_get_theme_option('s_footer_title_4') : "No Title";
 
-$footerContent1 = one_get_theme_option('s_footer_1');
-$footerContent2 = one_get_theme_option('s_footer_2');
-$footerContent3 = one_get_theme_option('s_footer_3');
-$footerContent4 = one_get_theme_option('s_footer_4');
+$footerContent1 = one_get_theme_option('s_footer_1') ? one_get_theme_option('s_footer_1') : "No Content";
+$footerContent2 = one_get_theme_option('s_footer_2') ? one_get_theme_option('s_footer_2') : "No Content";
+$footerContent3 = one_get_theme_option('s_footer_3') ? one_get_theme_option('s_footer_3') : "No Content";
+$footerContent4 = one_get_theme_option('s_footer_4') ? one_get_theme_option('s_footer_4') : "No Content";
 
 
 ?>
