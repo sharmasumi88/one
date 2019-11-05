@@ -62,21 +62,7 @@
                         );
 
                         wp_nav_menu($defaults); ?>
-                        <!--nav class="nav primary-nav" id="primary-nav" role="navigation">
-                            <ul id="menu-primary-coach" class="menu"><li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-29 current_page_item menu-item-54"><a href="index.html">Home</a></li>
-                                <li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-32"><a href="lessons/index.html">Services</a>
-                                    <ul class="sub-menu">
-                                        <li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-lesson menu-item-55"><a href="lesson/the-coach-studio/index.html">Personal Mentorship</a></li>
-                                        <li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-lesson menu-item-57"><a href="lesson/clay-lessons/index.html">Business Planning</a></li>
-                                        <li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-lesson menu-item-56"><a href="lesson/handcrafted-art/index.html">Central Investments</a></li>
-                                    </ul>
-                                </li>
-                                <li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="our-story/index.html">About Me</a></li>
-                                <li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60"><a href="catalog/index.html">Case Studies</a></li>
-                                <li id="menu-item-119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119"><a href="blog/index.html">Blog</a></li>
-                                <li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="contact/index.html">Contact</a></li>
-                            </ul>                        </nav-->
-                        <!-- END nav container -->
+
                     </div>
                 </div>
             </div>

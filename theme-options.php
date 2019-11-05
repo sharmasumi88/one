@@ -115,7 +115,7 @@ if ( ! class_exists( 'ONE_Theme_Options' ) ) {
         }
 
 
-    public static function get_fonts() {
+        public static function get_fonts() {
             $fonts = array(
                 'open-sans' => array(
                     'name' => 'Open Sans',
@@ -144,7 +144,7 @@ if ( ! class_exists( 'ONE_Theme_Options' ) ) {
 
         public static function create_admin_page() {
             wp_enqueue_script('jquery');
-        // This will enqueue the Media Uploader script
+            // This will enqueue the Media Uploader script
             wp_enqueue_media(); ?>
 
             <div class="wrap">
@@ -201,9 +201,9 @@ if ( ! class_exists( 'ONE_Theme_Options' ) ) {
                             <th scope="row"><?php esc_html_e( 'Section 1 Content', 'one' ); ?></th>
                             <td>
                                 <?php $value = self::get_theme_option( 's_content_1' ); ?>
-                               <?php $args = array (
-                                'tinymce' => false,
-                                'quicktags' => true,
+                                <?php $args = array (
+                                    'tinymce' => false,
+                                    'quicktags' => true,
                                 );
                                 wp_editor( $value, 'theme_options[s_content_1]', $args ); ?>
 
@@ -293,7 +293,11 @@ if ( ! class_exists( 'ONE_Theme_Options' ) ) {
                             <td>
                                 <?php $value = self::get_theme_option( 's_content_3' ); ?>
                                 <?php
-                                wp_editor( htmlspecialchars_decode($value), 'theme_options[s_content_3]' ); ?>
+                                $args = array (
+                                    'tinymce' => false,
+                                    'quicktags' => true,
+                                );
+                                wp_editor( $value, 'theme_options[s_content_3]',$args ); ?>
 
                             </td>
                         </tr>
@@ -446,7 +450,7 @@ if ( ! class_exists( 'ONE_Theme_Options' ) ) {
                             </td>
                         </tr>
 
-                    <tr><th><h4>Footer Sections</h4></th></tr>
+                        <tr><th><h4>Footer Sections</h4></th></tr>
                         <tr valign="top">
                             <th scope="row"><?php esc_html_e( 'Footer Section 1 title', 'one' ); ?></th>
                             <td>
@@ -540,7 +544,7 @@ if ( ! class_exists( 'ONE_Theme_Options' ) ) {
                 jQuery(document).ready(function($){
                     $('.upload-btn').click(function(e) {
                         e.preventDefault();
-                       var elem = $(this).prev();
+                        var elem = $(this).prev();
                         var image = wp.media({
                             title: 'Upload Image',
                             // mutiple: true if you want to upload multiple files at once
@@ -567,7 +571,7 @@ if ( ! class_exists( 'ONE_Theme_Options' ) ) {
 new ONE_Theme_Options();
 
 // Helper function to use in your theme to return a theme option value
-    function one_get_theme_option( $id = '' ) {
+function one_get_theme_option( $id = '' ) {
     return ONE_Theme_Options::get_theme_option( $id );
 }
 
